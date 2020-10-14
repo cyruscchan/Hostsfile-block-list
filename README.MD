@@ -19,6 +19,7 @@
 This library aims specific users which want to block unwanted access without further steps which is not a platform to limited other's expression. Please follow this rule before pull request:
 
 1. Do not added with politic reason (Will be rejected immediately if founded)
+1. Web advertisment can not included it (and please don't be confused with adware)
 1. For request deleting website on block list, please upload one screenshot with some reasons in a few words
 1. Both adding and deleting website must be discussed on issue page 1 week that you must provide pull request at the same time
 1. The final condition will be on owner's of this repository if having trouble on discussing (2) and (3)
